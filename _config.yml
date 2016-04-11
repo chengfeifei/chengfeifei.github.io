@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 明月逐舟
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: ""  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://chengfeifei"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: " chengfeifei"
   email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  bio: "现在就开始"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
