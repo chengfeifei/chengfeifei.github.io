@@ -10,14 +10,7 @@ tags: [纪录,开发]
 
 ##第一版
 
-<figure class="third">
+<figure class="half">
     <img src="http://7xsv37.com1.z0.glb.clouddn.com/black1.png">
     <img src="http://7xsv37.com1.z0.glb.clouddn.com/black2.jpg">
-    <img src="http://7xsv37.com1.z0.glb.clouddn.com/black3.png">
-</figure>
-
-<figure class="third">
-    <img src="http://7xsv37.com1.z0.glb.clouddn.com/black4.png">
-    <img src="http://7xsv37.com1.z0.glb.clouddn.com/black5.png">
-    <img src="http://7xsv37.com1.z0.glb.clouddn.com/black6.jpg">
 </figure>
