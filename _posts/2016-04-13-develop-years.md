@@ -10,7 +10,18 @@ tags: [纪录,开发]
 
 ##第一版
 
-<figure class="half">
-    <img src="http://7xsv37.com1.z0.glb.clouddn.com/black1.png">
-    <img src="http://7xsv37.com1.z0.glb.clouddn.com/black2.jpg">
-</figure>
+![image-2016-04-13-1](http://7xsv37.com1.z0.glb.clouddn.com/black.png)
+
+技术含量最高的一版，但效果并不良好。费了大量时间做了聊天功能，但并没有发挥实际的商业价值。因为此聊天功能是用户对客服，这就要公司对客服大量投入，但聊天功能对客户的转化率并不高，这样的一个功能对公司并没有意义。而且黑色的风格给人压抑的感觉。
+
+##第二版
+
+![image-2016-04-13-2](http://7xsv37.com1.z0.glb.clouddn.com/white.png)
+
+由于客户反应黑色太压抑，界面换成了白色风格，效果依旧不好。正如《人人都是产品经理》中说的：用户的解决方案通常短浅、片面。其实真正的原因是不具备独特性，我们有的功能别人一样也有。
+
+##第三版
+
+![image-2016-04-13-3](http://7xsv37.com1.z0.glb.clouddn.com/current.png)
+
+加入了直播室，自主开发了几款指标，效果良好，尤其是指标获得了大多数客户的认可。可惜指标牌照及其昂贵，并未给公司带来商业价值。有兴趣的攻城狮可以看这里：[《金融指标算法》](http://chengfeifei.github.io/blog/2016/04/10/develop-indicators/)
