@@ -9,7 +9,7 @@ tags: [纪录,开发]
 
 >去年公司的分析师给出了几项金融指标算法，比常规指标更加好用，受到了大部分用户的认可。可惜金融指标牌照太贵，最终并未能投入到商用，现拿出来分享。
 
-![image-2016-04-13-1.png](http://7xsv37.com1.z0.glb.clouddn.com/current3.jpg)
+![image-2016-04-10-1.png](http://7xsv37.com1.z0.glb.clouddn.com/current3.jpg)
 
 此指标名叫双赢线，蓝色区域表示下跌趋势，红色区域表示上涨趋势。算法如下：
 
@@ -34,7 +34,7 @@ tags: [纪录,开发]
 	DRAWLINE(DFL>=0,DQ2,DFL>=0,CQ1,1);
 	DRAWLINE(KFL>=0,DQ1,KFL>=0,CQ2,2);
 
-![image-2016-04-13-2.png](http://7xsv37.com1.z0.glb.clouddn.com/current4.jpg)
+![image-2016-04-10-2.png](http://7xsv37.com1.z0.glb.clouddn.com/current4.jpg)
 
 主图指标名叫斯拉瓦均线，副图指标名叫波段之星。斯拉瓦均线上算出了多空参考点；波段之星均线下穿上水平线表示跌势，上穿下水平线表示涨势。两个指标结合使用效果更佳。
 
