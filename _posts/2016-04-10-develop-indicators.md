@@ -9,7 +9,7 @@ tags: [开发,算法]
 
 >去年公司的分析师给出了几项金融指标算法，比常规指标更加好用，受到了大部分用户的认可。可惜金融指标牌照太贵，最终并未能投入到商用，现拿出来分享。
 
-## 双赢线
+### 双赢线
 
 ![image-2016-04-10-1](http://7xsv37.com1.z0.glb.clouddn.com/current3.jpg)
 
@@ -36,7 +36,7 @@ tags: [开发,算法]
 	DRAWLINE(DFL>=0,DQ2,DFL>=0,CQ1,1);
 	DRAWLINE(KFL>=0,DQ1,KFL>=0,CQ2,2);
 
-## 斯拉瓦均线&波段之星
+### 斯拉瓦均线&波段之星
 
 ![image-2016-04-10-2](http://7xsv37.com1.z0.glb.clouddn.com/current4.jpg)
 
