@@ -3,7 +3,7 @@ layout: post
 title: 在金融公司做开发的日子
 date: 2016-04-13
 categories: blog
-tags: [纪录,开发]
+tags: [开发,纪录]
 ---
 
 >在金融公司做Android开发一年多，历经三次改版，略有所得，以记之。
