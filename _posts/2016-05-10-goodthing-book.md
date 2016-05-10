@@ -23,7 +23,7 @@ tags: [好物,读书]
 **《精进:如何成为一个很厉害的人》** 作者: 采铜
 [豆瓣](https://book.douban.com/subject/26761696/)
 
--
+---
 
 #### 人文社科
 
@@ -43,14 +43,14 @@ tags: [好物,读书]
 **《文明之光》** 作者: 吴军
 [豆瓣](https://book.douban.com/subject/26275177/)
 
--
+---
 
 #### 经济管理
 
 **《领导梯队》** 作者: 拉姆•查兰
 [豆瓣](https://book.douban.com/subject/6536593/)
 
--
+---
 
 #### 小说
 
@@ -72,12 +72,12 @@ tags: [好物,读书]
 **《悟空传》** 作者: 今何在
 [豆瓣](https://book.douban.com/subject/1003000/)
 
--
+---
 
 ##### 其他推荐
 
 **开智正典：科学洗脑百本经典导读**
-[豆瓣](https://book.douban.com/subject/5366248/)
+[豆瓣](https://www.douban.com/doulist/41691053/)
 
 **产品经理能力相关**
 [百度云](http://pan.baidu.com/s/1nu9OAUX)
