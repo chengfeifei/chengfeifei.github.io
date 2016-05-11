@@ -14,7 +14,7 @@ header-img: "img/semantic.jpg"
 
 ### 关注
 
-- [读立写生](www.cnfeat.com)
+- [读立写生](http://cnfeat.com/)
 - [阳志平](http://www.yangzhiping.com/)
 - [IT公论](http://ipn.li/itgonglun/)
 
