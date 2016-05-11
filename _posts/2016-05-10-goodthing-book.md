@@ -76,6 +76,9 @@ tags: [好物,读书]
 
 #### 其他推荐
 
+**书籍下载**
+[看Kindle](http://kankindle.com/)
+
 **开智正典：科学洗脑百本经典导读**
 [豆瓣](https://www.douban.com/doulist/41691053/)
 
