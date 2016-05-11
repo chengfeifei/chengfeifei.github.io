@@ -20,7 +20,7 @@ header-img: "img/semantic.jpg"
 
 ### 联系
 
-- [HR点这里](http://chengfeifei.github.io/blog/2016/04/14/my-resume/)
+- [HR点这里](http://chengfeifei.github.io/2016/04/14/my-resume/)
 
 <center>
     <p><img src="http://7xsv37.com1.z0.glb.clouddn.com/my_erweima.jpg" align="center"></p>
