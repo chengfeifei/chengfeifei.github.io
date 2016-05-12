@@ -66,9 +66,9 @@ RSS 阅读器是个收集订阅信息的容器,你可以将长期在某个固定
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/app_AntennaPod1.png)
 
-在 iOS 上推荐 Castro。您也可以用苹果自家出的那个紫色图标的 Podcasts，它是预装在 iPhone 和 iPad 上的。
+在 iOS 上推荐 [Castro](http://supertop.co/castro/)。您也可以用苹果自家出的那个紫色图标的 Podcasts，它是预装在 iPhone 和 iPad 上的。
 
-在安卓上推荐 Pocket Casts，若您无法在 Google Play 购买 Pocket Casts，推荐使用免费的 AntennaPod。
+在安卓上推荐 [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)，若您无法在 Google Play 购买 Pocket Casts，推荐使用开源且免费的 [AntennaPod](http://www.wandoujia.com/apps/de.danoeh.antennapod)。
 
 使用方法与 RSS 阅读器类似。
 
