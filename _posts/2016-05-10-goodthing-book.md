@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 好物：书籍推荐（持续更新）
+title: 好物：书籍推荐
 date: 2016-05-10
 categories: blog
 tags: [好物,读书]
