@@ -30,7 +30,7 @@ tags: [好物,动画]
 
 导演: 近藤喜文
 
-类型: 剧情
+类型: 剧情 / 音乐
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/ceerqingting.jpeg)
 
@@ -248,6 +248,28 @@ tags: [好物,动画]
 
 ---
 
+**机器人总动员**
+
+导演: 安德鲁·斯坦顿
+
+类型: 喜剧 / 爱情 / 科幻 / 冒险
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/jiqirenwali.jpg)
+
+---
+
+**大都会**
+
+导演: 铃太郎
+
+原作: 手冢治虫
+
+类型: 科幻 / 冒险
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/daduhui.jpg)
+
+---
+
 **星际牛仔**
 
 导演: 渡边信一郎
@@ -275,18 +297,6 @@ tags: [好物,动画]
 类型: 剧场版
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/fanzhuandepatema.jpg)
-
----
-
-**凉宫春日的消失**
-
-导演: 石原立也
-
-原作: 谷川流
-
-类型: 剧场版
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/lianggongchunrixiaoshi.jpg)
 
 ---
 
@@ -323,16 +333,6 @@ tags: [好物,动画]
 类型: 科幻 / 宗教
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/eva.jpg)
-
----
-
-**赌博默示录**
-
-原作: 福本伸行
-
-类型: 赌博 / 心理 / 人性
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/dubomoshilu.jpg)
 
 ---
 
@@ -468,6 +468,16 @@ tags: [好物,动画]
 
 ---
 
+**赌博默示录**
+
+原作: 福本伸行
+
+类型: 赌博 / 心理 / 人性
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/dubomoshilu.jpg)
+
+---
+
 **化物语**
 
 原作: 西尾维新
@@ -594,6 +604,18 @@ tags: [好物,动画]
 
 ---
 
+**传颂之物**
+
+导演: 小林智树
+
+原作: Leaf社
+
+类型: 冒险
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/chuansongzhiwu.jpg)
+
+---
+
 **白色相薄2**
 
 导演: 安藤正臣
@@ -679,6 +701,22 @@ tags: [好物,动画]
 导演: 加藤久仁生
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/jingshenfenliezheng.jpg)
+
+---
+
+**雇佣人生**
+
+导演: Santiago Grasso
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/guyongrensheng.jpg)
+
+---
+
+**山水情**
+
+导演: 特伟 / 阎善春 / 马克宣
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/shanshuiqing.png)
 
 ---
 
