@@ -9,19 +9,22 @@ tags: [好物,读书]
 
 #### 励志
 
+> 心智
+
 **《新生 —— 七年就是一辈子》** 作者: 李笑来
 [在线阅读](http://zhibimo.com/books/xiaolai/reborn-every-7-years)
 [下载](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=402264964&idx=1&sn=9238309fca088590adaf1df32bdd9f98#rd)
+
+> 管理
 
 **《把时间当作朋友》** 作者: 李笑来
 [在线阅读](http://zhibimo.com/books/xiaolai/ba-shi-jian-dang-zuo-peng-you)
 [豆瓣](https://book.douban.com/subject/3609132/)
 
+> 情商与情绪
+
 **《自控力》** 作者: 凯利·麦格尼格尔
 [豆瓣](https://book.douban.com/subject/10786473/)
-
-**《精进:如何成为一个很厉害的人》** 作者: 采铜
-[豆瓣](https://book.douban.com/subject/26761696/)
 
 ---
 
@@ -29,7 +32,7 @@ tags: [好物,读书]
 
 > 法律
 
-**《美国宪政历程》** 作者: 任东来 / 陈伟 / 白雪峰
+**《美国宪政历程: 影响美国的25个司法大案》** 作者: 任东来 / 陈伟 / 白雪峰
 [豆瓣](https://book.douban.com/subject/1144185/)
 
 > 历史
@@ -46,6 +49,16 @@ tags: [好物,读书]
 ---
 
 #### 经济管理
+
+> 经济学
+
+**国富论** 作者: 亚当·斯密
+[豆瓣](https://book.douban.com/subject/1261560/)
+
+**经济学原理** 作者: 曼昆
+[豆瓣](https://book.douban.com/subject/3719533/)
+
+> 领导学
 
 **《领导梯队》** 作者: 拉姆•查兰
 [豆瓣](https://book.douban.com/subject/6536593/)
@@ -69,9 +82,6 @@ tags: [好物,读书]
 **《天才在左 疯子在右》** 作者: 高铭
 [豆瓣](https://book.douban.com/subject/4242172/)
 
-**《悟空传》** 作者: 今何在
-[豆瓣](https://book.douban.com/subject/1003000/)
-
 ---
 
 #### 其他推荐
@@ -81,6 +91,9 @@ tags: [好物,读书]
 
 **开智正典：科学洗脑百本经典导读**
 [豆瓣](https://www.douban.com/doulist/41691053/)
+
+**你的私人书单是什么？**
+[知乎](https://www.zhihu.com/question/29447490/answer/83696701)
 
 **产品经理能力相关**
 [百度云](http://pan.baidu.com/s/1nu9OAUX)
