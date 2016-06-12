@@ -60,6 +60,16 @@ tags: [好物,电影]
 
 ---
 
+**灿烂人生**
+
+导演: 马可·图利欧·吉欧达纳
+
+类型: 剧情
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/canlanrensheng.png)
+
+---
+
 **蝙蝠侠：黑暗骑士**
 
 导演: 克里斯托弗·诺兰
@@ -194,17 +204,8 @@ tags: [好物,电影]
 
 ### 短片
 
-**发薪日**
-
-导演: 查理·卓别林
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/faxinri.jpg)
-
----
-
 **再见金华站**
 
 导演: 毕鑫业
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/zaijianjinhuazhan.png)
-
