@@ -688,6 +688,14 @@ tags: [好物,动画]
 
 ---
 
+**某个旅人的日记**
+
+导演: 加藤久仁生
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/mougelvrenderiji.jpeg)
+
+---
+
 **老人与海**
 
 导演: 亚历山大·彼德洛夫
@@ -709,6 +717,14 @@ tags: [好物,动画]
 导演: Santiago Grasso
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/guyongrensheng.jpg)
+
+---
+
+**雨之城**
+
+导演: 石田祐康
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/yuzhicheng.jpg)
 
 ---
 
