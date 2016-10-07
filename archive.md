@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "不让闲置的思想丧失价值"
+description: "我的网志"
 header-img: "img/orange.jpg"
 ---
 
