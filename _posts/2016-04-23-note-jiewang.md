@@ -3,7 +3,7 @@ layout: post
 title: 笔记：结网
 date: 2016-04-23
 categories: blog
-tags: [笔记,读书]
+tags: [读书]
 ---
 
 

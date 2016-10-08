@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 好物：书籍推荐
+title: 书籍推荐
 date: 2016-05-10
 categories: blog
 tags: [书单]

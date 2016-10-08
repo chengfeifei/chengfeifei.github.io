@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 好物：电影推荐（多图预警）
+title: 电影推荐（多图预警）
 date: 2016-05-13
 categories: blog
 tags: [电影]

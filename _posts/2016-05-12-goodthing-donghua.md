@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 好物：动画推荐（多图预警）
+title: 动画推荐（多图预警）
 date: 2016-05-12
 categories: blog
 tags: [动画]

@@ -1,15 +1,12 @@
 ---
 layout: post
-title: 好物：工具推荐
+title: RSS 统一信息入口
 date: 2016-05-11
 categories: blog
 tags: [工具]
 ---
 
-
-### RSS -- 统一信息入口
-
-#### RSS 阅读器
+### RSS 阅读器
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/rss_inoreader.png)
 
@@ -62,7 +59,7 @@ RSS 阅读器是个收集订阅信息的容器,你可以将长期在某个固定
 **RSS 的生命力：分享100个订阅源**
 [取用地址](https://github.com/cnfeat/GoodThingList/blob/master/GoodBlogList.md)
 
-#### 泛用型（或称通用型）播客客户端
+### 泛用型（或称通用型）播客客户端
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/app_AntennaPod1.png)
 
@@ -71,11 +68,3 @@ RSS 阅读器是个收集订阅信息的容器,你可以将长期在某个固定
 在安卓上推荐 [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)，若您无法在 Google Play 购买 Pocket Casts，推荐使用开源且免费的 [AntennaPod](http://www.wandoujia.com/apps/de.danoeh.antennapod)。
 
 使用方法与 RSS 阅读器类似。
-
----
-
-### 写作
-
-#### Markdown
-
-[简明语法参考](http://azeril.me/blog/Markdown-Syntax.html)

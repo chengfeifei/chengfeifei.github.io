@@ -3,7 +3,7 @@ layout: post
 title: 笔记：我的互联网方法论
 date: 2016-04-15
 categories: blog
-tags: [笔记,读书]
+tags: [读书]
 ---
 
 

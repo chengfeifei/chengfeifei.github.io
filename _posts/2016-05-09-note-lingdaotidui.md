@@ -3,7 +3,7 @@ layout: post
 title: 笔记：领导梯队
 date: 2016-05-09
 categories: blog
-tags: [笔记,读书]
+tags: [读书]
 ---
 
 

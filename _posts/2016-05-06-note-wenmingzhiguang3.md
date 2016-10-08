@@ -3,7 +3,7 @@ layout: post
 title: 笔记：文明之光 第三版
 date: 2016-05-06
 categories: blog
-tags: [笔记,读书]
+tags: [读书]
 ---
 
 
