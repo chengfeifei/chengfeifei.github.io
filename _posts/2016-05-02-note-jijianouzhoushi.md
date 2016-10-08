@@ -3,7 +3,7 @@ layout: post
 title: 笔记：你一定爱读的极简欧洲史
 date: 2016-05-02
 categories: blog
-tags: [读书,笔记]
+tags: [笔记,读书]
 ---
 
 

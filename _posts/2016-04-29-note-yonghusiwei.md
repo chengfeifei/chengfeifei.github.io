@@ -3,7 +3,7 @@ layout: post
 title: 笔记：用户思维
 date: 2016-04-29
 categories: blog
-tags: [读书,笔记]
+tags: [笔记,读书]
 ---
 
 

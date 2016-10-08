@@ -3,7 +3,7 @@ layout: post
 title: 好物：电影推荐（多图预警）
 date: 2016-05-13
 categories: blog
-tags: [好物,电影]
+tags: [电影]
 ---
 
 >较少看电影，仅供参考

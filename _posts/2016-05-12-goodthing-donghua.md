@@ -3,7 +3,7 @@ layout: post
 title: 好物：动画推荐（多图预警）
 date: 2016-05-12
 categories: blog
-tags: [好物,动画]
+tags: [动画]
 ---
 
 >一家之言，仅供参考
