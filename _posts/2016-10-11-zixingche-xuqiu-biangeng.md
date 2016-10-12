@@ -12,7 +12,7 @@ tags: [需求变更]
 
 **登录流程图**
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu.png)
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu1.png)
 
 **站点搜索列表**
 
