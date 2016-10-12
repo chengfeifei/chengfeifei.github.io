@@ -14,6 +14,8 @@ tags: [需求变更]
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu1.png)
 
+---
+
 **站点搜索列表**
 
 默认显示用户搜索记录，最近一次搜索在最上。如果输入西二旗，按照地图方式列表中提示西二旗地铁站、xx、yy等地点。效果如下：
@@ -58,3 +60,6 @@ tags: [需求变更]
 
 **用户App UI**
 [下载](http://7xv9u1.com1.z0.glb.clouddn.com/%E8%A1%8C%E8%B7%B5%E7%94%A8%E6%88%B7APP%20UI.rar)
+
+**员工App UI**
+[下载](http://7xv9u1.com1.z0.glb.clouddn.com/%E8%A1%8C%E8%B7%B5%E5%91%98%E5%B7%A5APP%20UI.zip)
