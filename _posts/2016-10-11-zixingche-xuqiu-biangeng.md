@@ -24,6 +24,22 @@ tags: [需求变更]
 
 ---
 
+**首页站点刷新**
+
+站点刷新图标常在不消失，刷新时图标转动，刷新完毕停止转动，用户可以手动点击刷新。拖动界面自动刷新屏幕中央1000米范围内的站点。
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_biangeng_zhandianshuanxin.png)
+
+---
+
+**首页站点定位**
+
+上方的定位图标去掉，保留下方用户当前位置图标。
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_biangeng_dingwei.png)
+
+---
+
 #### 员工App
 
 **调度人员任务**
@@ -31,3 +47,8 @@ tags: [需求变更]
 橙色框选部分去掉，调度人员点击完成按钮后会有个提示框，提示他完成了多少辆车。
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_biangeng_diaodurenwu.jpg)
+
+---
+
+**用户App UI**
+[下载](http://7xv9u1.com1.z0.glb.clouddn.com/%E8%A1%8C%E8%B7%B5%E7%94%A8%E6%88%B7APP%20UI.rar)
