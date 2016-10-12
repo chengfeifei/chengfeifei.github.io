@@ -6,13 +6,21 @@ categories: work
 tags: [需求变更]
 ---
 
-#### 用户App
+### 用户App
 
 >打开App直接进入地图页面，与登录相关的界面判断用户是否登录，与骑行卡相关的界面判断用户是否登录且已绑定骑行卡。
 
-**登录流程图**
+**点击个人中心用户头像登录流程图**
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu1.png)
+
+**点击与登录相关页面登录流程图（不含租还页面）**
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu2.png)
+
+**点击租还页面登录、绑卡流程图**
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu3.png)
 
 ---
 
@@ -48,7 +56,7 @@ tags: [需求变更]
 
 ---
 
-#### 员工App
+### 员工App
 
 **调度人员任务**
 
