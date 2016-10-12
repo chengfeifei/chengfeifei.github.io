@@ -3,7 +3,7 @@ layout: post
 title: 行践自行车项目开发优先级
 date: 2016-09-20
 categories: work
-tags: [开发,优先级]
+tags: [开发优先级]
 ---
 
 >优先做后台，其次用户App，最后员工App。菜单位置是UE菜单位置，优先级1为最高，5为最低，0表示暂时可以不做。
