@@ -12,15 +12,15 @@ tags: [需求变更]
 
 **点击个人中心用户头像登录流程图**
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu1.png)
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu_touxiang.png)
 
 **点击与登录相关页面登录流程图（不含租还页面）**
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu2.png)
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu_qita.png)
 
 **点击租还页面登录、绑卡流程图**
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu3.png)
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_liucheng_denglu_zuhuan.png)
 
 ---
 
@@ -58,11 +58,27 @@ tags: [需求变更]
 
 ### 员工App
 
+**任务列表**
+
+调度人员、巡检人员、维修人员的任务列表只显示未完成的任务，管理人员的任务列表只显示调度人员、巡检人员、维修人员已完成的任务。
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_biangeng_renwuliebiao.png)
+
+---
+
 **调度人员任务**
 
 橙色框选部分去掉，调度人员点击完成按钮后会有个提示框，提示他完成了多少辆车。
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_biangeng_diaodurenwu.jpg)
+
+---
+
+**维修人员调度任务**
+
+维修方式选择送至维修点后，下方需要增加要求开始时间、要求结束时间。
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_biangeng_weixiudiaodu1.png)
 
 ---
 
