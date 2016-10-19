@@ -76,9 +76,9 @@ tags: [需求变更]
 
 **维修人员调度任务**
 
-维修方式选择送至维修点后，下方需要增加要求开始时间、要求结束时间。
+维修人员指派的调度任务没有要求开始时间、要求结束时间。
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_biangeng_weixiudiaodu1.png)
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_biangeng_weixiudiaodu.png)
 
 ---
 
