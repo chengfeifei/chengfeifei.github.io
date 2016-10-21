@@ -82,7 +82,7 @@ tags: [需求变更]
 
 ---
 
-**用户App UI（更新于10月10日）**
+**用户App UI（更新于10月11日）**
 [下载](http://7xv9u1.com1.z0.glb.clouddn.com/%E8%A1%8C%E8%B7%B5%E7%94%A8%E6%88%B7APP%20UI.rar)
 
 **员工App UI（更新于10月12日）**
