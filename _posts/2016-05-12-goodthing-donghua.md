@@ -302,6 +302,16 @@ tags: [动画]
 
 ### TV版
 
+**分形世界**
+
+导演: 山本宽
+
+类型: 科幻
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/fenxingshijie.png)
+
+---
+
 **鲁邦三世**
 
 导演: 宫崎骏, 高畑勲
