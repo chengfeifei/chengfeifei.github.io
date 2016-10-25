@@ -6,9 +6,9 @@ categories: blog
 tags: [动画]
 ---
 
-<center>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=559357&auto=1&height=66"></iframe>
-</center>
+<audio src="http://7xv9u1.com1.z0.glb.clouddn.com/Down%20By%20The%20Salley%20Gardens_AZUMA%20HITOMI.mp3" controls="autoplay">
+Your browser does not support the audio tag.
+</audio>
 
 >一家之言，仅供参考
 
