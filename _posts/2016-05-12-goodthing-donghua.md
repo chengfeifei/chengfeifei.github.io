@@ -6,11 +6,11 @@ categories: blog
 tags: [动画]
 ---
 
-<audio src="http://7xv9u1.com1.z0.glb.clouddn.com/Down%20By%20The%20Salley%20Gardens_AZUMA%20HITOMI.mp3" controls="autoplay">
+>一家之言，仅供参考
+
+<audio src="http://7xv9u1.com1.z0.glb.clouddn.com/Down%20By%20The%20Salley%20Gardens_AZUMA%20HITOMI.mp3" controls="controls" autoplay="autoplay">
 Your browser does not support the audio tag.
 </audio>
-
->一家之言，仅供参考
 
 ### 动画电影
 
