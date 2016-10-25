@@ -7,7 +7,7 @@ tags: [动画]
 ---
 
 <center>
-    <p><img src="http://7xsv37.com1.z0.glb.clouddn.com/smiling_sun.jpg" align="center"></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=559357&auto=1&height=66"></iframe>
 </center>
 
 >一家之言，仅供参考
