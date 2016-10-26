@@ -18,6 +18,20 @@ tags: [接口需求]
 >
 >此文档提到的字段是根据前端业务需求需要特别指明的字段，并不是这个接口只含有这几个字段。
 
+### 行业对比图
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_houtai_hangyeduibi.png)
+
+一三五图片上显示真实数据，图可以不变，数据要变化，暂定每3个月统计一次。
+
+第一张图24h文字稍微向上，24h文字下方显示真实数据“在租：xx％”。
+
+第三张图柱状后空白处显示每个站点真实数据“活跃度：xx％”。
+
+第五张图三处指示部分用真实数据替代。
+
+---
+
 ### 管理人员－操作日志
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/zixingche_houtai_caozuorizhi.png)
