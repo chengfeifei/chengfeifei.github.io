@@ -3,7 +3,7 @@ layout: post
 title: 《人人都是产品经理》笔记
 date: 2016-04-19
 categories: blog
-tags: [读书,笔记]
+tags: [笔记,产品]
 ---
 
 ### 需求

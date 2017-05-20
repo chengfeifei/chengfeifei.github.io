@@ -3,7 +3,7 @@ layout: post
 title: 元认知学习法
 date: 2017-03-31
 categories: blog
-tags: [网页,笔记]
+tags: [笔记,元认知]
 ---
 
 > 博观而约取，得鱼而忘筌。

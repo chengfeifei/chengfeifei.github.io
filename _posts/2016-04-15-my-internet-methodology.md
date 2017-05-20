@@ -3,7 +3,7 @@ layout: post
 title: 《我的互联网方法论》笔记
 date: 2016-04-15
 categories: blog
-tags: [读书,笔记]
+tags: [笔记]
 ---
 
 ### 用户至上

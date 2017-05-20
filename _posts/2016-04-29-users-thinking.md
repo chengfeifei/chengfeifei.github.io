@@ -3,7 +3,7 @@ layout: post
 title: 《用户思维》笔记
 date: 2016-04-29
 categories: blog
-tags: [读书,笔记]
+tags: [笔记,产品]
 ---
 
 ### 订购制模式优点与挑战

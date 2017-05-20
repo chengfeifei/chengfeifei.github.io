@@ -3,7 +3,7 @@ layout: post
 title: 产品决策的重点
 date: 2016-06-21
 categories: blog
-tags: [网页,笔记]
+tags: [笔记,产品]
 ---
 
 ### 优先级梳理
