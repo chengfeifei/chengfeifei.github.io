@@ -6,22 +6,13 @@ categories: blog
 tags: [动画]
 ---
 
-<audio src="http://7xv9u1.com1.z0.glb.clouddn.com/Down%20By%20The%20Salley%20Gardens_AZUMA%20HITOMI.mp3" controls="controls">
-</audio>
-
 ### 动画电影
-
-**宫崎骏系列** 这个就不多解释了
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/gongqijun.jpeg)
-
----
 
 **猫的报恩**
 
 导演: 森田宏幸
 
-类型: 奇幻 / 冒险
+编剧: 吉田玲子 / 柊葵
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/maodebaoen.jpg)
 
@@ -31,7 +22,7 @@ tags: [动画]
 
 导演: 近藤喜文
 
-类型: 剧情 / 音乐
+编剧: 宫崎骏 / 柊葵
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/ceerqingting.jpeg)
 
@@ -41,8 +32,6 @@ tags: [动画]
 
 导演: 望月智充
 
-类型: 爱情
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/tingdaotaosheng.jpg)
 
 ---
@@ -51,91 +40,9 @@ tags: [动画]
 
 导演: 新海诚
 
-类型: 爱情
+FYI: [影评](http://www.bilibili.com/video/av5590477/)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/miaosuwulimi.jpg)
-
----
-
-**云之彼端，约定的地方**
-
-导演: 新海诚
-
-类型: 爱情
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/yunzhibiduan.jpg)
-
----
-
-**借东西的小人阿莉埃蒂**
-
-导演: 米林宏昌
-
-类型: 奇幻
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/jiedongxidexiaoren.jpg)
-
----
-
-**夏日大作战**
-
-导演: 细田守
-
-类型: 科幻 / 亲情
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/xiaridazhuozhan.jpg)
-
----
-
-**异邦人无皇刃谭**
-
-导演: 安藤真裕
-
-类型: 热血 / 动作
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/wuhuangrentan.jpg)
-
----
-
-**龙龙与忠狗（佛兰德斯的狗）**
-
-导演: 黑田昌郎
-
-原作: 英国作家Ouida
-
-类型: 感人
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/longlongyuzhonggou.jpg)
-
----
-
-**攻壳机动队**
-
-导演: 押井守
-
-类型: 动作 / 科幻
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/gongkejidongdui.jpg)
-
----
-
-**壳中少女**
-
-导演: 工藤进
-
-类型: 动作 / 科幻
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/kezhongshaonv.jpg)
-
----
-
-**空之境界**
-
-原作: 奈须蘑菇
-
-类型: 爱情
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/kongzhijingjie.jpg)
 
 ---
 
@@ -143,7 +50,7 @@ tags: [动画]
 
 原作: 宫泽贤治
 
-类型: 冒险
+FYI: [在线观看](http://www.bilibili.com/video/av3608485/?from=search&seid=8892245646974044302)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/yinhetiedaozhiye.jpeg)
 
@@ -153,7 +60,7 @@ tags: [动画]
 
 原作: 宫泽贤治
 
-类型: 冒险
+FYI: [在线观看](http://www.bilibili.com/video/av461101/?from=search&seid=7643813020164460112)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/puduolideyisheng.jpeg)
 
@@ -163,8 +70,6 @@ tags: [动画]
 
 导演: 大友克洋
 
-类型: 奇幻 / 惊悚 / 科幻
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/huiyisanbuqv.jpg)
 
 ---
@@ -173,7 +78,7 @@ tags: [动画]
 
 导演: 今敏
 
-类型: 爱情
+FYI: [影评](http://www.bilibili.com/video/av6097952/)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/qianniannvyou.jpg)
 
@@ -183,7 +88,7 @@ tags: [动画]
 
 导演: 今敏
 
-类型: 科幻 / 冒险
+FYI: [影评](http://www.bilibili.com/video/av7410571/)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/daomengzhentan.png)
 
@@ -193,8 +98,6 @@ tags: [动画]
 
 导演: 今敏
 
-类型: 亲情
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/dongjingjiaofu.jpg)
 
 ---
@@ -203,9 +106,63 @@ tags: [动画]
 
 导演: 今敏
 
-类型: 惊悚 / 奇幻
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/weimadebuwu.jpg)
+
+---
+
+**借东西的小人阿莉埃蒂**
+
+导演: 米林宏昌
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/jiedongxidexiaoren.jpg)
+
+---
+
+**夏日大作战**
+
+导演: 细田守
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/xiaridazhuozhan.jpg)
+
+---
+
+**异邦人无皇刃谭**
+
+导演: 安藤真裕
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/wuhuangrentan.jpg)
+
+---
+
+**龙龙与忠狗（佛兰德斯的狗）**
+
+原作: 奥维达 Ouida
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/longlongyuzhonggou.jpg)
+
+---
+
+**攻壳机动队**
+
+导演: 押井守
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/gongkejidongdui.jpg)
+
+---
+
+**壳中少女**
+
+导演: 工藤进
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/kezhongshaonv.jpg)
+
+---
+
+**空之境界**
+
+原作: 奈须蘑菇
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/kongzhijingjie.jpg)
 
 ---
 
@@ -213,17 +170,13 @@ tags: [动画]
 
 导演: 汤姆·摩尔
 
-类型: 奇幻
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/haiyangzhige.jpg)
 
 ---
 
 **凯尔经的秘密**
 
-导演: 汤姆·摩尔, 诺拉·托梅
-
-类型: 奇幻
+导演: 汤姆·摩尔 / 诺拉·托梅
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/kaierjingdemimi.jpeg)
 
@@ -231,9 +184,7 @@ tags: [动画]
 
 **我在伊朗长大**
 
-导演: 文森特·帕兰德, 玛嘉·莎塔琵
-
-类型: 传记 / 战争
+导演: 文森特·帕兰德 / 玛嘉·莎塔琵
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/wozaiyilangzhangda.jpg)
 
@@ -241,11 +192,7 @@ tags: [动画]
 
 **大都会**
 
-导演: 铃太郎
-
 原作: 手冢治虫
-
-类型: 科幻 / 冒险
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/daduhui.jpg)
 
@@ -255,8 +202,6 @@ tags: [动画]
 
 导演: 渡边信一郎
 
-类型: 动作 / 科幻 / 犯罪
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/xingjiniuzai.jpg)
 
 ---
@@ -265,41 +210,71 @@ tags: [动画]
 
 导演: 片山一良
 
-类型: 科幻 / 悬疑
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/guchengjingjiwang.jpg)
 
 ---
 
 ### TV版
 
+**火之鸟**
+
+原作: 手冢治虫
+
+FYI: [黎明篇](http://www.bilibili.com/video/av11023304/) / [复活篇、异形篇](http://www.bilibili.com/video/av11121699/) / [太阳篇](http://www.bilibili.com/video/av11200563/) / [未来篇](http://www.bilibili.com/video/av11301887/)
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/huozhiniao.jpg)
+
+---
+
+**四畳半神话大系**
+
+原作: 森见登美彦
+
+FYI: [MAD](http://www.bilibili.com/video/av736607/)
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/sidieban.jpg)
+
+---
+
 **分形世界**
 
 导演: 山本宽
-
-类型: 科幻
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/fenxingshijie.png)
 
 ---
 
-**鲁邦三世**
+**花开伊吕波**
 
-导演: 宫崎骏, 高畑勲
+原作: P.A.WORKS
 
-类型: 怪盗 / 侦探
+![](http://7xsv37.com1.z0.glb.clouddn.com/huakaiwuyu.jpeg)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/lubangsanshi.png)
+---
+
+**绝园的暴风雨**
+
+原作: 城平京
+
+FYI: [MAD](http://www.bilibili.com/video/av410735/)
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/jueyuandebaofengyu.jpg)
+
+---
+
+**奇诺之旅**
+
+原作: 时雨泽惠一
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/qinuozhilv.jpg)
 
 ---
 
 **浪客剑心**
 
-导演: 古桥一浩
-
 原作: 和月伸宏
 
-类型: 爱情 / 战争
+FYI: [影评](http://www.bilibili.com/video/av6472638/)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/langkejianxin.jpg)
 
@@ -307,35 +282,15 @@ tags: [动画]
 
 **新世纪福音战士**
 
-导演: 庵野秀明
-
 原作: GAINAX
-
-类型: 科幻 / 宗教
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/eva.jpg)
 
 ---
 
-**花开伊吕波**
-
-导演: 安藤真裕
-
-原作: P.A.WORKS
-
-类型: 少女 / 成长
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/huakaiwuyu.jpeg)
-
----
-
 **妖精的旋律**
 
-导演: 神户守
-
 原作: 冈本伦
-
-类型: 科幻 / 恋爱 / 治愈
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/yaojingdexuanlu.jpg)
 
@@ -343,11 +298,7 @@ tags: [动画]
 
 **ef - a tale of memories**
 
-导演: 大沼心
-
-原作: minori / 御影 / 镜游
-
-类型: 爱情
+原作: minori / 七尾奈留
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/youjiuzhiyi.jpg)
 
@@ -355,11 +306,7 @@ tags: [动画]
 
 **Clannad**
 
-导演: 石原立也
-
-原作: key社
-
-类型: 亲情 / 友情 / 爱情
+原作: key
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/clannad.jpg)
 
@@ -367,35 +314,15 @@ tags: [动画]
 
 **Little Busters**
 
-导演: 山川吉树
-
-原作: key社
-
-类型: 友情 / 校园
+原作: key
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/littlebusters.jpg)
 
 ---
 
-**Little Busters Refrain**
-
-导演: 山川吉树
-
-原作: key社
-
-类型: 友情 / 校园
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/littlebustersrefrain.jpg)
-
----
-
 **K**
 
-导演: 铃木信吾
-
-原作: Gora
-
-类型: 热血 / 奇幻
+原作: Gora / GoHands
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/k.jpg)
 
@@ -403,41 +330,17 @@ tags: [动画]
 
 **凉宫春日的忧郁**
 
-导演: 石原立也
-
 原作: 谷川流
-
-类型: 剧情 / 校园
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/lianggongchunriyouyu.jpg)
 
 ---
 
-**赌博默示录**
-
-原作: 福本伸行
-
-类型: 赌博 / 心理 / 人性
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/dubomoshilu.jpg)
-
----
-
-**化物语**
+**物语系列**
 
 原作: 西尾维新
 
-类型: 奇幻
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/huawuyu.jpg)
-
----
-
-**伪物语**
-
-原作: 西尾维新
-
-类型: 奇幻
+FYI: [MAD](http://www.bilibili.com/video/av243091/)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/weiwuyu.jpg)
 
@@ -445,11 +348,7 @@ tags: [动画]
 
 **来自新世界**
 
-导演: 石滨真史
-
 原作: 贵志祐介
-
-类型: 奇幻
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/laizixinshijie.jpg)
 
@@ -457,47 +356,15 @@ tags: [动画]
 
 **野良神**
 
-导演: 田村耕太郎
-
 原作: 安达渡嘉
-
-类型: 神鬼
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/yeliangshen.jpg)
 
 ---
 
-**奇诺之旅**
-
-导演: 中村隆太郎, 渡部高志
-
-原作: 时雨泽惠一
-
-类型: 奇幻
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/qinuozhilv.jpg)
-
----
-
-**虫师**
-
-导演: 长滨博史
-
-原作: 漆原友纪
-
-类型: 奇幻
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/chongshi.jpg)
-
----
-
 **命运石之门**
 
-导演: 佐藤卓哉, 滨崎博嗣
-
-原作: Nitroplus
-
-类型: 科幻 / 冒险 / 爱情
+原作: Nitroplus / 志仓千代丸
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/mingyunshizhimen.jpg)
 
@@ -507,31 +374,29 @@ tags: [动画]
 
 原作: 竹宫悠由子
 
-类型: 恋爱 / 成长
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/longyuhu.jpg)
 
 ---
 
 **魔法少女小圆**
 
-导演: 新房昭之
-
 原作: Magica Quartet
-
-类型: 少女 / 冒险 / 战争 / 治愈
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/mofashaonv.jpg)
 
 ---
 
+**赌博默示录**
+
+原作: 福本伸行
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/dubomoshilu.jpg)
+
+---
+
 **死亡笔记**
 
-导演: 荒木哲郎
-
-原作: 大场鸫, 小畑健
-
-类型: 犯罪 / 侦探
+原作: 大场鸫
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/siwangbiji.jpg)
 
@@ -539,11 +404,7 @@ tags: [动画]
 
 **传颂之物**
 
-导演: 小林智树
-
-原作: Leaf社
-
-类型: 冒险
+原作: Leaf
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/chuansongzhiwu.jpg)
 
@@ -551,33 +412,15 @@ tags: [动画]
 
 **白色相薄2**
 
-导演: 安藤正臣
-
-原作: Leaf社
-
-类型: 恋爱
+原作: Leaf
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/baisexiangbo2.png)
 
 ---
 
-**火之鸟**
-
-原作: 手冢治虫
-
-类型: 哲学 / 少年
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/huozhiniao.jpg)
-
----
-
 **NaNa**
 
-导演: Madhouse
-
 原作: 矢泽爱
-
-类型: 少女 / 恋爱 / 成长
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/nana.jpg)
 
@@ -587,8 +430,6 @@ tags: [动画]
 
 导演: 皮三
 
-类型: 搞笑 / 校园
-
 ![](http://7xsv37.com1.z0.glb.clouddn.com/kuangkuang.jpg)
 
 ---
@@ -596,8 +437,6 @@ tags: [动画]
 **小米的森林**
 
 导演: 不思凡
-
-类型: 奇幻
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/xiaomidesenlin.jpg)
 
