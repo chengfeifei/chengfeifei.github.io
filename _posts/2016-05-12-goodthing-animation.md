@@ -148,7 +148,7 @@ FYI: [影评](http://www.bilibili.com/video/av7410571/)
 
 原作: 奥维达 Ouida
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/longlongyuzhonggou.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/longlongyuzhonggou.jpg" width = "70%"/>
 
 ---
 
