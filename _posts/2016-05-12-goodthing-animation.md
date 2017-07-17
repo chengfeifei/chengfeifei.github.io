@@ -14,7 +14,7 @@ tags: [动画]
 
 编剧: 吉田玲子 / 柊葵
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/maodebaoen.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/maodebaoen.jpg" width = "70%"/>
 
 ---
 
@@ -24,7 +24,7 @@ tags: [动画]
 
 编剧: 宫崎骏 / 柊葵
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/ceerqingting.jpeg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/ceerqingting.jpeg" width = "70%"/>
 
 ---
 
@@ -36,13 +36,23 @@ tags: [动画]
 
 ---
 
+**星之声**
+
+导演: 新海诚
+
+FYI: [影评](http://www.bilibili.com/video/av6170008/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/xingzhisheng.jpg" width = "70%"/>
+
+---
+
 **秒速5厘米**
 
 导演: 新海诚
 
 FYI: [影评](http://www.bilibili.com/video/av5590477/)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/miaosuwulimi.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/miaosuwulimi.jpg" width = "70%"/>
 
 ---
 
@@ -52,7 +62,7 @@ FYI: [影评](http://www.bilibili.com/video/av5590477/)
 
 FYI: [在线观看](http://www.bilibili.com/video/av3608485/?from=search&seid=8892245646974044302)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/yinhetiedaozhiye.jpeg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/yinhetiedaozhiye.jpeg" width = "70%"/>
 
 ---
 
@@ -62,7 +72,7 @@ FYI: [在线观看](http://www.bilibili.com/video/av3608485/?from=search&seid=88
 
 FYI: [在线观看](http://www.bilibili.com/video/av461101/?from=search&seid=7643813020164460112)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/puduolideyisheng.jpeg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/puduolideyisheng.jpeg" width = "70%"/>
 
 ---
 
@@ -80,7 +90,7 @@ FYI: [在线观看](http://www.bilibili.com/video/av461101/?from=search&seid=764
 
 FYI: [影评](http://www.bilibili.com/video/av6097952/)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/qianniannvyou.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/qianniannvyou.jpg" width = "70%"/>
 
 ---
 
@@ -381,6 +391,8 @@ FYI: [MAD](http://www.bilibili.com/video/av243091/)
 **魔法少女小圆**
 
 原作: Magica Quartet
+
+FYI: [影评](http://www.bilibili.com/video/av8485430/)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/mofashaonv.jpg)
 
