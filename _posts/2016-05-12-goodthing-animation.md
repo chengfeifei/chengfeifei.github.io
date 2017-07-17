@@ -60,7 +60,7 @@ FYI: [影评](http://www.bilibili.com/video/av5590477/)
 
 原作: 宫泽贤治
 
-FYI: [在线观看](http://www.bilibili.com/video/av3608485/?from=search&seid=8892245646974044302)
+FYI: [在线观看](http://www.bilibili.com/video/av3608485/)
 
 <img src="http://7xsv37.com1.z0.glb.clouddn.com/yinhetiedaozhiye.jpeg" width = "550"/>
 
@@ -70,7 +70,7 @@ FYI: [在线观看](http://www.bilibili.com/video/av3608485/?from=search&seid=88
 
 原作: 宫泽贤治
 
-FYI: [在线观看](http://www.bilibili.com/video/av461101/?from=search&seid=7643813020164460112)
+FYI: [在线观看](http://www.bilibili.com/video/av461101/)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/puduolideyisheng.jpeg)
 
@@ -203,6 +203,8 @@ FYI: [影评](http://www.bilibili.com/video/av7410571/)
 **大都会**
 
 原作: 手冢治虫
+
+FYI: [在线观看](http://www.bilibili.com/video/av1557505/)
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/daduhui.jpg)
 
@@ -455,6 +457,16 @@ FYI: [影评](http://www.bilibili.com/video/av8485430/)
 ---
 
 ### 短片
+
+**次元爆弹**
+
+导演: 森本晃司
+
+FYI: [MAD](http://www.bilibili.com/video/av2818686/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/ciyuanbaodan.png" width = "550"/>
+
+---
 
 **回忆积木小屋**
 
