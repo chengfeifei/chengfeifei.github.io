@@ -12,8 +12,6 @@ tags: [动画]
 
 导演: 森田宏幸
 
-编剧: 吉田玲子 / 柊葵
-
 <img src="http://7xsv37.com1.z0.glb.clouddn.com/maodebaoen.jpg" width = "550"/>
 
 ---
@@ -21,8 +19,6 @@ tags: [动画]
 **侧耳倾听**
 
 导演: 近藤喜文
-
-编剧: 宫崎骏 / 柊葵
 
 <img src="http://7xsv37.com1.z0.glb.clouddn.com/ceerqingting.jpeg" width = "550"/>
 
@@ -308,7 +304,7 @@ FYI: [影评](http://www.bilibili.com/video/av6472638/)
 
 ---
 
-**ef - a tale of memories**
+**悠久之翼**
 
 原作: minori / 七尾奈留
 
@@ -358,6 +354,14 @@ FYI: [MAD](http://www.bilibili.com/video/av243091/)
 
 ---
 
+**刀语**
+
+原作: 西尾维新
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/daoyu.jpg" width = "550"/>
+
+---
+
 **来自新世界**
 
 原作: 贵志祐介
@@ -386,7 +390,7 @@ FYI: [MAD](http://www.bilibili.com/video/av243091/)
 
 原作: 竹宫悠由子
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/longyuhu.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/longyuhu.jpg" width = "550"/>
 
 ---
 
