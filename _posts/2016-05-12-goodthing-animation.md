@@ -42,16 +42,6 @@ FYI: [影评](http://www.bilibili.com/video/av6170008/)
 
 ---
 
-**秒速5厘米**
-
-导演: 新海诚
-
-FYI: [影评](http://www.bilibili.com/video/av5590477/)
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/miaosuwulimi.jpg" width = "550"/>
-
----
-
 **银河铁道之夜**
 
 原作: 宫泽贤治
@@ -100,14 +90,6 @@ FYI: [影评](http://www.bilibili.com/video/av7410571/)
 
 ---
 
-**东京教父**
-
-导演: 今敏
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/dongjingjiaofu.jpg" width = "550"/>
-
----
-
 **未麻的部屋**
 
 导演: 今敏
@@ -116,19 +98,11 @@ FYI: [影评](http://www.bilibili.com/video/av7410571/)
 
 ---
 
-**借东西的小人阿莉埃蒂**
+**东京教父**
 
-导演: 米林宏昌
+导演: 今敏
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/jiedongxidexiaoren.jpg" width = "550"/>
-
----
-
-**夏日大作战**
-
-导演: 细田守
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/xiaridazhuozhan.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/dongjingjiaofu.jpg" width = "550"/>
 
 ---
 
@@ -196,6 +170,14 @@ FYI: [影评](http://www.bilibili.com/video/av7410571/)
 
 ---
 
+**古城荆棘王**
+
+导演: 片山一良
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/guchengjingjiwang.jpg" width = "550"/>
+
+---
+
 **大都会**
 
 原作: 手冢治虫
@@ -211,14 +193,6 @@ FYI: [在线观看](http://www.bilibili.com/video/av1557505/)
 导演: 渡边信一郎
 
 <img src="http://7xsv37.com1.z0.glb.clouddn.com/xingjiniuzai.jpg" width = "550"/>
-
----
-
-**古城荆棘王**
-
-导演: 片山一良
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/guchengjingjiwang.jpg" width = "550"/>
 
 ---
 
@@ -241,14 +215,6 @@ FYI: [黎明篇](http://www.bilibili.com/video/av11023304/) / [复活篇、异�
 FYI: [MAD](http://www.bilibili.com/video/av736607/)
 
 <img src="http://7xsv37.com1.z0.glb.clouddn.com/sidieban.jpg" width = "550"/>
-
----
-
-**分形世界**
-
-导演: 山本宽
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/fenxingshijie.png" width = "550"/>
 
 ---
 
@@ -296,14 +262,6 @@ FYI: [影评](http://www.bilibili.com/video/av6472638/)
 
 ---
 
-**妖精的旋律**
-
-原作: 冈本伦
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/yaojingdexuanlu.jpg" width = "550"/>
-
----
-
 **悠久之翼**
 
 原作: minori / 七尾奈留
@@ -320,27 +278,11 @@ FYI: [影评](http://www.bilibili.com/video/av6472638/)
 
 ---
 
-**Little Busters**
-
-原作: key
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/littlebusters.jpg" width = "550"/>
-
----
-
 **K**
 
 原作: Gora / GoHands
 
 <img src="http://7xsv37.com1.z0.glb.clouddn.com/k.jpg" width = "550"/>
-
----
-
-**凉宫春日的忧郁**
-
-原作: 谷川流
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/lianggongchunriyouyu.jpg" width = "550"/>
 
 ---
 
@@ -362,6 +304,16 @@ FYI: [MAD](http://www.bilibili.com/video/av243091/)
 
 ---
 
+**混沌武士**
+
+导演: 渡边信一郎
+
+FYI: [MAD](https://www.bilibili.com/video/av1192593/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/hundunwushi.jpg" width = "550"/>
+
+---
+
 **来自新世界**
 
 原作: 贵志祐介
@@ -375,6 +327,14 @@ FYI: [MAD](http://www.bilibili.com/video/av243091/)
 原作: 安达渡嘉
 
 <img src="http://7xsv37.com1.z0.glb.clouddn.com/yeliangshen.jpg" width = "550"/>
+
+---
+
+**凉宫春日的忧郁**
+
+原作: 谷川流
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/lianggongchunriyouyu.jpg" width = "550"/>
 
 ---
 
@@ -404,6 +364,14 @@ FYI: [影评](http://www.bilibili.com/video/av8485430/)
 
 ---
 
+**昭和元禄落语心中**
+
+原作: 云田晴子
+
+![](http://7xsv37.com1.z0.glb.clouddn.com/zhaoheyuanluluoyuxinzhong.jpeg)
+
+---
+
 **赌博默示录**
 
 原作: 福本伸行
@@ -420,19 +388,11 @@ FYI: [影评](http://www.bilibili.com/video/av8485430/)
 
 ---
 
-**传颂之物**
+**妖精的旋律**
 
-原作: Leaf
+原作: 冈本伦
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/chuansongzhiwu.jpg" width = "550"/>
-
----
-
-**白色相薄2**
-
-原作: Leaf
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/baisexiangbo2.png)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/yaojingdexuanlu.jpg" width = "550"/>
 
 ---
 
@@ -441,14 +401,6 @@ FYI: [影评](http://www.bilibili.com/video/av8485430/)
 原作: 矢泽爱
 
 ![](http://7xsv37.com1.z0.glb.clouddn.com/nana.jpg)
-
----
-
-**哐哐日记**
-
-导演: 皮三
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/kuangkuang.jpg" width = "550"/>
 
 ---
 
