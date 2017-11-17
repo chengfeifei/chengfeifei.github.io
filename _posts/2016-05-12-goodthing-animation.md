@@ -8,7 +8,7 @@ tags: [动画]
 
 ### 选片网站
 
-- Bangumi动画排行榜: [全部动画 | Bangumi 番组计划](http://bangumi.tv/anime/browser?sort=rank)
+- Bangumi动画排行榜: [全部动画 Bangumi 番组计划](http://bangumi.tv/anime/browser?sort=rank)
 - 2ch Top200: [2ch杰出动画排名top200](https://www.douban.com/doulist/729106/)
 - TV动画历史总榜单: [【名作之壁】TV动画历代销量累计平均排行（1988年～2012年2月）](https://bbs.saraba1st.com/2b/thread-785894-1-1.html)
 
