@@ -64,7 +64,7 @@ tags: [动画]
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/2664)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/huiyisanbuqv.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/huiyisanbuqv1.jpg" width = "550"/>
 
 ---
 
@@ -88,15 +88,7 @@ tags: [动画]
 
 影评: [【木鱼微剧场】几分钟看完《红辣椒》](http://www.bilibili.com/video/av7410571/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/daomengzhentan.png" width = "550"/>
-
----
-
-**未麻的部屋（蓝色恐惧）**
-
-导演: 今敏
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/weimadebuwu.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/daomengzhentan1.jpg" width = "550"/>
 
 ---
 
@@ -180,7 +172,7 @@ tags: [动画]
 
 片源: [在线观看](https://www.bilibili.com/video/av8128824/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/guchengjingjiwang.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/guchengjingjiwang1.jpg" width = "550"/>
 
 ---
 
@@ -212,7 +204,7 @@ tags: [动画]
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/2261)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/xingjiniuzai.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/xingjiniuzai1.jpg" width = "550"/>
 
 ---
 
@@ -280,7 +272,7 @@ MAD: [【绝园的暴风雨】孤独之旅](http://www.bilibili.com/video/av4107
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/1181)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/youjiuzhiyi.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/youjiuzhiyi2.jpg" width = "550"/>
 
 ---
 
@@ -290,7 +282,7 @@ MAD: [【绝园的暴风雨】孤独之旅](http://www.bilibili.com/video/av4107
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/1177)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/clannad.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/clannad1.jpg" width = "550"/>
 
 ---
 
@@ -448,7 +440,7 @@ MAD: [【冷番向】日光【次元爆弹】](http://www.bilibili.com/video/av2
 
 片源: [在线观看](https://www.bilibili.com/video/av410879/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/shanshuiqing.png" width = "550"/>
+![](http://7xsv37.com1.z0.glb.clouddn.com/shanshuiqing1.jpg)
 
 ---
 
