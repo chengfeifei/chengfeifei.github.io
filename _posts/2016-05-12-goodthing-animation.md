@@ -358,7 +358,7 @@ MAD: [【绝园的暴风雨】孤独之旅](http://www.bilibili.com/video/av4107
 
 片源: [在线观看](https://www.bilibili.com/video/av41898/)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/xiaomidesenlin1.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/xiaomidesenlin1.jpg" width = "550"/>
 
 ---
 
