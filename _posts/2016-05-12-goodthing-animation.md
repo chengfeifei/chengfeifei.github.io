@@ -189,7 +189,7 @@ tags: [动画]
 
 [忍者杀手](http://bangumi.tv/subject/101437)
 
-2015 / 今石洋之
+2015 / 雨宫哲
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/3456)
 
