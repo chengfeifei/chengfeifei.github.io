@@ -111,14 +111,6 @@ tags: [动画]
 
 ---
 
-[壳中少女](http://bangumi.tv/subject/44690)
-
-2011 / 工藤进
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/kezhongshaonv.jpg" width = "550"/>
-
----
-
 [海洋之歌](http://bangumi.tv/subject/119356)
 
 2014 / 汤姆·摩尔
