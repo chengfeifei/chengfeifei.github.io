@@ -13,57 +13,65 @@ tags: [动画]
 
 ### 个人喜好
 
-[猫的报恩](http://bangumi.tv/subject/506)
-
-2002 / 森田宏幸
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/maodebaoen.jpg" width = "550"/>
-
----
-
-[侧耳倾听](http://bangumi.tv/subject/500)
-
-1995 / 近藤喜文
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/ceerqingting.jpeg" width = "550"/>
-
----
-
-[听到涛声](http://bangumi.tv/subject/513)
-
-1993 / 望月智充
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/tingdaotaosheng2.jpg" width = "550"/>
-
----
+#### 电影版
 
 [银河铁道之夜](http://bangumi.tv/subject/19208)
 
-1985 / 原作: 宫泽贤治
+1985 / 宫泽贤治
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/3041)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/yinhetiedaozhiye85.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/yinhetiedaozhiye85.jpg" width = "200"/>
 
 ---
 
-[卜多力的一生（古斯柯布多力传记）](http://bangumi.tv/subject/31435)
+[贤治之春](http://bangumi.tv/subject/3697)
 
-2012 / 原作: 宫泽贤治
+1996 / 河森正治
 
-片源: [在线观看](https://bangumi.bilibili.com/anime/4451)
+片源: [在线观看](https://bangumi.bilibili.com/anime/3044)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/puduolideyisheng.jpeg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/xianzhizhichun.jpg" width = "200"/>
+
+---
+
+[乔瓦尼之岛](http://bangumi.tv/subject/83295)
+
+2014 / 西久保瑞穂
+
+片源: [在线观看](https://bangumi.bilibili.com/anime/4236)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/qiaowanizhidao.jpg" width = "200"/>
 
 ---
 
 [回忆三部曲](http://bangumi.tv/subject/3627)
 
-1995 / 大友克洋、森本晃司、今敏
+1995 / 大友克洋、森本晃司、冈村天斋、今敏
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/2664)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/huiyisanbuqv1.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/huiyisanbuqv2.jpg" width = "200"/>
+
+---
+
+[机器人嘉年华](http://bangumi.tv/subject/11895)
+
+1987 / 大友克洋、森本晃司、大森英敏、梅津泰臣、北爪宏幸、大橋学、北久保弘之、なかむらたかし
+
+片源: [在线观看](https://www.bilibili.com/video/av4036363/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/jiqirenjianianhua.jpg" width = "200"/>
+
+---
+
+[大都会](http://bangumi.tv/subject/2328)
+
+2001 / 大友克洋、手塚治虫
+
+片源: [在线观看](https://bangumi.bilibili.com/anime/5311)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/daduhui.jpg" width = "200"/>
 
 ---
 
@@ -75,7 +83,7 @@ tags: [动画]
 
 影评: [【木鱼微剧场】几分钟看完今敏经典作品《千年女优》](http://www.bilibili.com/video/av6097952/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/qianniannvyou.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/qianniannvyou.jpg" width = "200"/>
 
 ---
 
@@ -87,27 +95,7 @@ tags: [动画]
 
 影评: [【木鱼微剧场】几分钟看完《红辣椒》](http://www.bilibili.com/video/av7410571/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/daomengzhentan1.jpg" width = "550"/>
-
----
-
-[龙龙与忠狗（佛兰德斯的狗）](http://bangumi.tv/subject/19051)
-
-1997 / 原作: 奥维达
-
-片源: [在线观看](https://bangumi.bilibili.com/anime/2983)
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/longlongyuzhonggou.jpg)
-
----
-
-[攻壳机动队](http://bangumi.tv/subject/237)
-
-1995 / 押井守
-
-片源: [在线观看](https://bangumi.bilibili.com/anime/1564)
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/gongkejidongdui.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/daomengzhentan1.jpg" width = "200"/>
 
 ---
 
@@ -115,9 +103,7 @@ tags: [动画]
 
 2014 / 汤姆·摩尔
 
-片源: [在线观看](https://bangumi.bilibili.com/movie/11904)
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/haiyangzhige.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/haiyangzhige1.jpg" width = "200"/>
 
 ---
 
@@ -125,7 +111,7 @@ tags: [动画]
 
 2009 / 汤姆·摩尔
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/kaierjingdemimi.jpeg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/kaierjingdemimi.jpeg" width = "200"/>
 
 ---
 
@@ -133,7 +119,7 @@ tags: [动画]
 
 2003 / Sylvain Chomet
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/fengkuangyuehuimeilidu.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/fengkuangyuehuimeilidu.jpg" width = "200"/>
 
 ---
 
@@ -143,7 +129,7 @@ tags: [动画]
 
 片源: [在线观看](https://www.bilibili.com/video/av2296045/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/wozaiyilangzhangda.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/wozaiyilangzhangda1.jpg" width = "200"/>
 
 ---
 
@@ -153,21 +139,13 @@ tags: [动画]
 
 片源: [在线观看](https://www.bilibili.com/video/av8128824/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/guchengjingjiwang1.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/guchengjingjiwang2.jpg" width = "200"/>
 
 ---
 
-[大都会](http://bangumi.tv/subject/2328)
+#### TV版
 
-2001 / 大友克洋、手塚治虫
-
-片源: [在线观看](https://bangumi.bilibili.com/anime/5311)
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/daduhui.jpg)
-
----
-
-[火之鸟](http://bangumi.tv/subject/16190)
+[火鸟](http://bangumi.tv/subject/16190)
 
 2004 / 手塚治虫
 
@@ -175,17 +153,29 @@ tags: [动画]
 
 影评: [黎明篇](http://www.bilibili.com/video/av11023304/) / [复活篇、异形篇](http://www.bilibili.com/video/av11121699/) / [太阳篇](http://www.bilibili.com/video/av11200563/) / [未来篇](http://www.bilibili.com/video/av11301887/)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/huozhiniao.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/huozhiniao.jpg" width = "200"/>
+
+---
+
+[浪客剑心 追忆篇](http://bangumi.tv/subject/1728)
+
+1999 / 古桥一浩
+
+片源: [TV版](https://bangumi.bilibili.com/anime/2303) / [追忆篇](https://www.bilibili.com/video/av142448/)
+
+影评: [【木鱼微剧场】几分钟看完《浪客剑心追忆篇》](http://www.bilibili.com/video/av6472638/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/langkejianxin.jpg" width = "200"/>
 
 ---
 
 [忍者杀手](http://bangumi.tv/subject/101437)
 
-2015 / 雨宫哲
+2015 / 雨宫哲、今石洋之
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/3456)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/renzheshashou.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/renzheshashou.jpg" width = "200"/>
 
 ---
 
@@ -195,7 +185,7 @@ tags: [动画]
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/2261)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/xingjiniuzai1.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/xingjiniuzai2.jpg" width = "200"/>
 
 ---
 
@@ -207,67 +197,137 @@ tags: [动画]
 
 MAD: [【混沌武士】生死流转【Samurai Champloo】](https://www.bilibili.com/video/av1192593/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/hundunwushi.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/hundunwushi1.jpg" width = "200"/>
 
 ---
 
 [四畳半神话大系](http://bangumi.tv/subject/4019)
 
-2010 / 原作: 森见登美彦
+2010 / 汤浅政明、森见登美彦
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/3258)
 
 MAD: [【冷番向】我的人生每天都是修罗期【四畳半神话大系】](http://www.bilibili.com/video/av736607/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/sidieban.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/sidiebanshenhuadaxi1.jpg" width = "200"/>
 
 ---
 
 [奇诺之旅](http://bangumi.tv/subject/1948)
 
-2003 / 原作: 时雨泽惠一
+2003 / 时雨泽惠一
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/2013)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/qinuozhilv.jpg" width = "550"/>
-
----
-
-[浪客剑心 追忆篇](http://bangumi.tv/subject/1728)
-
-1999 / 原作: 和月伸宏
-
-片源: [TV版](https://bangumi.bilibili.com/anime/2303) / [追忆篇](https://www.bilibili.com/video/av142448/)
-
-影评: [【木鱼微剧场】几分钟看完《浪客剑心追忆篇》](http://www.bilibili.com/video/av6472638/)
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/langkejianxin.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/qinuozhilv1.jpg" width = "200"/>
 
 ---
 
 物语系列
 
-原作: 西尾维新
+新房昭之、西尾维新
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/wuyuxilie.jpeg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/wuyuxilie.jpeg" width = "200"/>
 
 ---
 
 [昭和元禄落语心中](http://bangumi.tv/subject/119394)
 
-2016 / 原作: 云田晴子
+2016 / 小俣真一、云田晴子
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/zhaoheyuanluluoyuxinzhong.jpeg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/zhaoheyuanluluoyuxinzhong.jpeg" width = "200"/>
 
 ---
 
 [NaNa](http://bangumi.tv/subject/486)
 
-2006 / 原作: 矢泽爱
+2006 / 矢泽爱
 
 片源: [在线观看](https://bangumi.bilibili.com/anime/1382)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/nana.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/nana.jpg" width = "200"/>
+
+---
+
+#### 短片
+
+[山水情](https://movie.douban.com/subject/1316626/)
+
+1988 / 特伟、阎善春、马克宣
+
+片源: [在线观看](https://www.bilibili.com/video/av410879/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/shanshuiqing1.jpg" width = "200"/>
+
+---
+
+[牧笛](https://movie.douban.com/subject/1431962/)
+
+1963 / 特伟、钱家骏
+
+片源: [在线观看](https://www.bilibili.com/video/av6438353/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/mudi.jpg" width = "200"/>
+
+---
+
+[鹿铃](https://movie.douban.com/subject/1886877/)
+
+1982 / 唐澄、邬强
+
+片源: [在线观看](https://www.bilibili.com/video/av6459757/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/luling.jpeg" width = "200"/>
+
+---
+
+[回忆积木小屋](https://movie.douban.com/subject/3560787/)
+
+2008 / 加藤久仁生
+
+片源: [在线观看](https://www.bilibili.com/video/av7273066/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/huiyijimuxiaowu1.jpg" width = "200"/>
+
+---
+
+[某个旅人的日记](https://movie.douban.com/subject/2117844/)
+
+2003 / 加藤久仁生
+
+片源: [在线观看](https://www.bilibili.com/video/av2300254/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/mougelvrenderiji.jpeg" width = "200"/>
+
+---
+
+[老人与海](https://movie.douban.com/subject/1302930/)
+
+1999 / 亚历山大·彼德洛夫
+
+片源: [在线观看](https://www.bilibili.com/video/av1960097/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/laorenyuhai.jpg" width = "200"/>
+
+---
+
+[父与女](https://movie.douban.com/subject/1300395/)
+
+2001 / 迈克尔·度德威特
+
+片源: [在线观看](https://www.bilibili.com/video/av2762345/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/fuyunv.jpg" width = "200"/>
+
+---
+
+[精神分裂症](https://movie.douban.com/subject/3262918/)
+
+2008 / 杰赫米·克拉潘
+
+片源: [在线观看](https://www.bilibili.com/video/av2198511/)
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/jingshenfenliezheng1.jpg" width = "200"/>
 
 ---
 
@@ -279,64 +339,44 @@ MAD: [【冷番向】我的人生每天都是修罗期【四畳半神话大系�
 
 MAD: [【冷番向】日光【次元爆弹】](http://www.bilibili.com/video/av2818686/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/ciyuanbaodan.png" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/ciyuanbaodan1.jpg" width = "200"/>
 
 ---
 
-[回忆积木小屋](https://movie.douban.com/subject/3560787/)
+[男孩和世界](https://movie.douban.com/subject/25741398/)
 
-2008 / 加藤久仁生
+2013 / 阿莱·阿布鲁
 
-片源: [在线观看](https://www.bilibili.com/video/av7273066/)
+片源: [在线观看](http://v.youku.com/v_show/id_XMTUyNDQzMTQzMg==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.1)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/huiyijimuxiaowu.jpg)
-
----
-
-[父与女](https://movie.douban.com/subject/1300395/)
-
-2001 / 迈克尔·度德威特
-
-片源: [在线观看](https://www.bilibili.com/video/av2762345/)
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/fuyunv.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/nanhaiheshijie.jpg" width = "200"/>
 
 ---
 
-[某个旅人的日记](https://movie.douban.com/subject/2117844/)
+[三个发明家](https://movie.douban.com/subject/2141760/)
 
-2003 / 加藤久仁生
+1980 / 米歇尔·欧斯洛
 
-片源: [在线观看](https://www.bilibili.com/video/av2300254/)
+片源: [在线观看](https://www.bilibili.com/video/av2719662/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/mougelvrenderiji.jpeg" width = "550"/>
-
----
-
-[老人与海](https://movie.douban.com/subject/1302930/)
-
-1999 / 亚历山大·彼德洛夫
-
-片源: [在线观看](https://www.bilibili.com/video/av1960097/)
-
-![](http://7xsv37.com1.z0.glb.clouddn.com/laorenyuhai.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/sangefamingjia.jpg" width = "200"/>
 
 ---
 
-[精神分裂症](https://movie.douban.com/subject/3262918/)
+[命运](https://movie.douban.com/subject/1862284/)
 
-2008 / 杰赫米·克拉潘
+2003 / 多米尼克·蒙法尼
 
-片源: [在线观看](https://www.bilibili.com/video/av2198511/)
+片源: [在线观看](https://www.bilibili.com/video/av2368926/)
 
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/jingshenfenliezheng.jpg" width = "550"/>
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/mingyun.jpg" width = "200"/>
 
 ---
 
-[山水情](https://movie.douban.com/subject/1316626/)
+[休息时间](https://movie.douban.com/subject/1870811/)
 
-1988 / 特伟、阎善春、马克宣
+1985 / 皮特·帕恩
 
-片源: [在线观看](https://www.bilibili.com/video/av410879/)
+片源: [在线观看](https://www.bilibili.com/video/av4053027/)
 
-![](http://7xsv37.com1.z0.glb.clouddn.com/shanshuiqing1.jpg)
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/xuixishijian.jpg" width = "200"/>
