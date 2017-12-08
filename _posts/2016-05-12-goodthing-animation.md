@@ -115,6 +115,14 @@ tags: [动画]
 
 ---
 
+[男孩和世界](http://bangumi.tv/subject/111894)
+
+2014 / 阿莱·阿布鲁
+
+<img src="http://7xsv37.com1.z0.glb.clouddn.com/nanhaiheshijie.jpg" width = "168"/>
+
+---
+
 [疯狂约会美丽都](http://bangumi.tv/subject/4038)
 
 2003 / Sylvain Chomet
@@ -340,16 +348,6 @@ MAD: [【冷番向】我的人生每天都是修罗期【四畳半神话大系�
 MAD: [【冷番向】日光【次元爆弹】](http://www.bilibili.com/video/av2818686/)
 
 <img src="http://7xsv37.com1.z0.glb.clouddn.com/ciyuanbaodan1.jpg" width = "168"/>
-
----
-
-[男孩和世界](https://movie.douban.com/subject/25741398/)
-
-2013 / 阿莱·阿布鲁
-
-片源: [在线观看](http://v.youku.com/v_show/id_XMTUyNDQzMTQzMg==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.1)
-
-<img src="http://7xsv37.com1.z0.glb.clouddn.com/nanhaiheshijie.jpg" width = "168"/>
 
 ---
 
